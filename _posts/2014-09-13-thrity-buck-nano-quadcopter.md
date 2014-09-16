@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Thirty buck quadcopter!"
-date:  2014-09-13
+title: "Thirty buck quadcopter!"
+date: 2014-09-13
 categories: quadcopter
 ---
 
