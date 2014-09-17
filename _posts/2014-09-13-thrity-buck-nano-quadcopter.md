@@ -23,3 +23,4 @@ hardware teardown.
  
 So come back in a week and I should have a more detailed post.
 
+Update: It arrived today. I will have a new post up soon.
