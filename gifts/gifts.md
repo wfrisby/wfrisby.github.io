@@ -5,7 +5,7 @@ permalink: /gifts/
 ---
 
 # Introduction
-With the holiday season coming up soon, I thought that I would write a
+With the holiday season coming up soon. I thought that I would write a
 ~~short~~ list of decent gifts for nerds like me. This list is not complete, so
 I have created a gist to maintain the list(s). Feel free to add comments and
 suggestions.
